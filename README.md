@@ -37,6 +37,12 @@ conda install jupyter
 jupyter notebook
 ~~~
 
+On windows you might get an error later so instead you need to run:
+
+~~~
+wandb run jupyter notebook
+~~~
+
 This should open a new browser window. 
 
 #### Everything Else
